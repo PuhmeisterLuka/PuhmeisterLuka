@@ -2,7 +2,7 @@
 
 Python developer from Maribor, Slovenia. I build automation, web scrapers and websites for small businesses. Second-year IT student at FERI Maribor, freelancing alongside my studies.
 
-**Open for freelance work.** I work in English and Slovenian. Right now I'm building out my own design system and applying it across my apps and a new portfolio site.
+**Open for freelance work.** I work in English and Slovenian.
 
 ## What I build
 
