@@ -30,7 +30,7 @@ Python (Flask, FastAPI, Playwright, PyMuPDF, SQLAlchemy), JavaScript, HTML and C
 
 ## Contact
 
-Email: luka.puhmeister@proton.me
+Email: luka@puhmeister.dev
 LinkedIn: [in/luka-puhmeister](https://linkedin.com/in/luka-puhmeister)
 
 Ask me about web scraping, PDF automation, or what five failed strategies taught me about measuring things properly. Away from the keyboard I train five days a week, which is why half my repos are about workout data.
